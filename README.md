@@ -1,2 +1,2 @@
-# pandasconway
-Conways game of life visualized using pandas.
+# pygameconway
+Conways game of life visualized using pygame.
